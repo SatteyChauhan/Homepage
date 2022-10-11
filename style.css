@@ -128,5 +128,16 @@ ul{
 	background-color: #ffffff;
 }
 
-
-
+/* Coupon */
+#coupon{
+    height:400px;
+    width:600px;
+    background-color:gray;
+    z-index:100;
+    margin-left:26%;
+    visibility: hidden;
+    position: absolute;
+    margin-top: -50%;
+	background-image: url(/images/cake-offers.jpg);
+	background-repeat: no-repeat;
+    background-size: 100% 400px;
