@@ -5,6 +5,46 @@
     padding: 0;
 }
 
+/* .offer{
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+} */
+
+.AAA{
+	color: whitesmoke;
+	margin-top: 70px;
+}
+
+.BBB{
+	color: whitesmoke;
+}
+
+.CCC{
+	color: rgb(35, 172, 193);
+}
+
+.DDD{
+	margin-left: 45%;
+	height: 50px;
+	width: 80px;
+	background-color: red;
+}
+
+body{
+	background-color:white;
+	color:black
+}
+
+.mydark{
+	background-color:black;
+	color:white
+}
+
+.Mode{
+	/* margin-left: 90%; */
+	margin-top: 35%;
+	height: 40px;
+}
 
 .navbar-style
 {
@@ -132,14 +172,17 @@ ul{
 #coupon{
     height:400px;
     width:600px;
-    background-color:gray;
+    background-color:pink;
     z-index:100;
     margin-left:26%;
     visibility: hidden;
     position: absolute;
     margin-top: -50%;
-	background-image: url(/images/cake-offers.jpg);
+	/* background-image: url(/images/cake-offers.jpg);
 	background-repeat: no-repeat;
-    /* background-size: 100% 400px; */
+    background-size: 100% 400px; */
 
+	
+
+		
 	
