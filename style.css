@@ -118,11 +118,11 @@ ul{
 	list-style: none;
 }
 .footer{
-	background-color: rgb(3, 3, 35);
+	background-color: rgb(243, 34, 69);
     padding: 10px 0;
 }
 .footer-col{
-   width: 25%;
+   width: 20%;
    padding: 0 15px;
 }
 .footer-col h4{
